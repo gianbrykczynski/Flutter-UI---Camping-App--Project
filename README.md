@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Camping_app" src="https://github.com/gianbrykczynski/Flutter-UI---Furniture-Online-App---Project/blob/master/assets/images/furniture_banner_app.png" width="400px">
+  <img alt="Camping_app" src="https://github.com/gianbrykczynski/Flutter-UI---Camping-App--Project/blob/master/assets/camping_app_banner.png" width="500px">
 </p>
 
 ---

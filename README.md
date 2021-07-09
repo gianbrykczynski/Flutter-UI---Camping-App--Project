@@ -76,7 +76,7 @@ A construção da aplicação em questão me proporcionou obter conhecimentos re
 <h2 align="center">Demosntração Camping-App</h2>
 
   <p align="center">
-      <img alt="MovApp" title="MovApp" src="https://github.com/gianbrykczynski/Flutter-UI---Furniture-Online-App---Project/blob/master/assets/images/app_store_video.gif" />
+      <img alt="Camping_app" title="Camping_app" src="https://github.com/gianbrykczynski/Flutter-UI---Camping-App--Project/blob/master/assets/camping_app_video.gif" />
    </p>
    
 ---
@@ -115,6 +115,6 @@ A construção da aplicação em questão me proporcionou obter conhecimentos re
 <h2 align="center">Agradecimento</h2>
 
 <p align="center">
-  <img alt="sopheamen_image" title="sopheamen_image" src="https://github.com/gianbrykczynski/Flutter-UI---Covid19-Tracker-App-Project/blob/master/assets/sopheamen_image.png" />
+  <img alt="sopheamen" title="sopheamen" src="https://github.com/gianbrykczynski/Flutter-UI---Covid19-Tracker-App-Project/blob/master/assets/sopheamen_image.png" />
 </p>
 
